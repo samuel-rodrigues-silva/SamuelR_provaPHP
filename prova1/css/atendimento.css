@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+    margin: auto;
+}
+
+a{
+    text-decoration: none;
+    font: 10px;
+    color: green;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 80%;
+}
+
+#formulario, #exibicao, #consulta{
+    padding: 90px;
+    margin: 10px;   
+}
+
+form input{
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+table td{
+    border: 1px solid black;
+    padding: 5px;    
+}
